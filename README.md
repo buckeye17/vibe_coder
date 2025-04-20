@@ -1,2 +1,4 @@
 # vibe_coder
-A simple web app to select local files that should be included along with a prompt.
+A simple Dash web app to select local text files that should be included along with a prompt for an LLM.
+
+![vibe_coder screenshot](vibe_coder_screenshot.png)
